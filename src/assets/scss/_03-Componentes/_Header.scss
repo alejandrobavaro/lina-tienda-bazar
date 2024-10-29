@@ -61,29 +61,33 @@ html, body {
   .navbar-icons {
     display: flex;
     align-items: center;
+    justify-content: center;
 
     .auth-icon {
-      color: #ffffff; // Blanco
+      color: #ae00ff; // Blanco
   
         transition: color 0.3s ease;
 
       &:hover {
-        color: #ff5e00; // Color de acento
+        color: #8400ff; // Color de acento
       }
     }
   }
 
 
   .menu-icon {
-    font-size: x-large;
-    color: #ffffff; // Blanco
+     font-size: x-large;
+    color: #a200ff; 
+    // border: #000000 dotted 1px;
+    border-radius: 50%;
+    padding: 0px;
   }
 
   .auth-welcome-container {
     display: flex;
     align-items: center;
-    color: #ffffff; // Blanco
-    font-size: medium;
+    color: #ae00ff; // Blanco
+    font-size: large;
 
     }
   }

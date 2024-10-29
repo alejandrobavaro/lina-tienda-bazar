@@ -1,9 +1,5 @@
 import React, { useState, useEffect } from "react";
-import {
-  BrowserRouter as Router,
-  Route,
-  Routes,
-} from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 //------------ESTILOS--------------//
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -31,7 +27,7 @@ import SesionLogout from "./componentes/SesionLogout";
 import SesionLogin from "./componentes/SesionLogin";
 //------------------TIENDA---------------------//
 import Tienda from './componentes/Tienda';
-import TiendaCarritoCompra  from './componentes/TiendaCarritoCompra';
+import TiendaCarritoCompra from './componentes/TiendaCarritoCompra';
 import { OfertasProvider } from './componentes/TiendaOfertasContext';
 
 //------------------------SERVICIO----------------------------//

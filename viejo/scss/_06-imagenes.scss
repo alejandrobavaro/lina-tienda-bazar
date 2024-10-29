@@ -1,0 +1,108 @@
+//---------------ESTILO IMAGENES-----------------------//
+
+
+
+/* Estilos para las imágenes limitadas */
+.imagen-limitada0 {
+  width: 100%;
+  height: auto;
+ // border: 1px solid rgba(245, 222, 179, 0.434);
+ // border-radius: 20px;
+ margin-top: 50px;
+  padding: 0 0 120px 0 ;
+}
+
+/* Estilos para las imágenes limitadas */
+.imagen-limitada1 {
+  width: 90%;
+  height: auto;
+ // border: 1px solid rgba(245, 222, 179, 0.434);
+  border-radius: 100px;
+  padding: 0 30px 0 30px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.201);
+}
+
+/* Estilos para las imágenes limitadas */
+.imagen-limitada2 {
+  width: 40%;
+  /* Ancho */
+  height: auto;
+  /* Altura automática */
+  border: none;
+  /* Borde */
+  border-radius: 20px;
+  /* Radio del borde */
+}
+
+/* Estilos para las imágenes limitadas */
+.imagen-limitada3 {
+  width: 35%;
+  /* Ancho */
+  height: auto;
+  /* Altura automática */
+  border: none;
+  /* Borde */
+  border-radius: 20px;
+  /* Radio del borde */
+}
+
+/* Estilos para las imágenes limitadas */
+.imagen-limitada4 {
+  width: 15%;
+  /* Ancho */
+  height: auto;
+  /* Altura automática */
+  border: none;
+  /* Borde */
+  border-radius: 20px;
+  /* Radio del borde */
+}
+
+/* Estilos para las imágenes limitadas */
+.imagen-limitada5 {
+  width: 30%;
+  /* Ancho por defecto */
+  height: auto;
+  /* Altura automática */
+}
+
+/* Estilos para las imágenes limitadas */
+.imagen-limitada6 {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  aspect-ratio: 2/1;
+  transition: 1s;
+}
+//-----------------------------------------------------------------/
+
+
+//-------------------ESTILOS GIF-----------------------------/
+.gif-limitado1 {
+  width: 20%;
+  height: auto;
+  border-radius: 20px; /* Radio del borde */
+  padding: 0px;
+  margin-bottom: 0px;
+  //box-shadow: 0px 4px 8px rgb(0, 0, 0); /* Sombra con opacidad */
+  opacity: 0.8; /* Reducción de la opacidad */
+}
+
+//-----------------------------------------------------------------/
+
+
+
+
+
+
+//-------------------LOGO WHATSAPP FLOTANTE------------------------------/
+.logoWhats {
+  width: 100px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+
+}
+
+//-----------------------------------------------------------------/
+

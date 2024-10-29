@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "nombre": "Set de Copas de Vino Premium",
+    "imagen portada": "/img/06-tienda/tienda1-a.png",
+    "tipo": "Cristalería",
+    "categoria": "Hogar",
+    "complejidad": "baja",
+    "precio": "2500",
+    "disponibles": 100,
+    "descripcion": [
+      "Elegantes copas de vino fabricadas en cristal de alta calidad.",
+      "Ideales para cenas especiales y eventos."
+    ],
+    "imagenes": [
+      "/img/06-tienda/tienda1-c.png",
+      "/img/06-tienda/tienda1-b.png",
+      "/img/06-tienda/tienda1-d.png"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Juego de Vasos Vintage",
+    "imagen portada": "/img/06-tienda/tienda2-a.png",
+    "tipo": "Cristalería",
+    "categoria": "Hogar",
+    "complejidad": "baja",
+    "precio": "1800",
+    "disponibles": 150,
+    "descripcion": [
+      "Vasos de diseño vintage para dar un toque único a tu mesa.",
+      "Fabricados en vidrio templado resistente."
+    ],
+    "imagenes": [
+      "/img/06-tienda/tienda2-b.png",
+      "/img/06-tienda/tienda2-c.png",
+         "/img/06-tienda/tienda2-d.png"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Adorno Decorativo",
+    "imagen portada": "/img/06-tienda/tienda3-c.png",
+    "tipo": "Decoración",
+    "categoria": "Hogar",
+    "complejidad": "baja",
+    "precio": "1200",
+    "disponibles": 50,
+    "descripcion": [
+      "Adorno de cerámica de alta calidad con diseño moderno.",
+      "Perfecto para cualquier ambiente de tu hogar."
+    ],
+    "imagenes": [
+      "/img/06-tienda/tienda3-a.png",
+      "/img/06-tienda/tienda3-b.png",
+      "/img/06-tienda/tienda3-d.png"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Mesa de Madera Rústica",
+    "imagen portada": "/img/06-tienda/tienda4-a.png",
+    "tipo": "Muebles",
+    "categoria": "Hogar",
+    "complejidad": "media",
+    "precio": "5200",
+    "disponibles": 30,
+    "descripcion": [
+      "Mesa auxiliar hecha en madera natural con acabado rústico.",
+      "Ideal para cualquier espacio de tu hogar."
+    ],
+    "imagenes": [
+      "/img/06-tienda/tienda4-b.png",
+      "/img/06-tienda/tienda4-c.png",
+         "/img/06-tienda/tienda4-d.png"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Platos Artesanales",
+    "imagen portada": "/img/06-tienda/tienda5-a.png",
+    "tipo": "Vajilla",
+    "categoria": "Hogar",
+    "complejidad": "baja",
+    "precio": "3500",
+    "disponibles": 80,
+    "descripcion": [
+      "Platos de cerámica hechos a mano, con detalles artesanales únicos.",
+      "Cada plato es una pieza única."
+    ],
+    "imagenes": [
+      "/img/06-tienda/tienda5-b.png",
+      "/img/06-tienda/tienda5-c.png",
+      "/img/06-tienda/tienda5-d.png"
+    ]
+  },
+
+  {
+    "id": 6,
+    "nombre": "Lámpara de Mesa Minimalista",
+    "imagen portada": "/img/06-tienda/tienda6-a.png",
+    "tipo": "Iluminación",
+    "categoria": "Hogar",
+    "complejidad": "baja",
+    "precio": "4500",
+    "disponibles": 40,
+    "descripcion": [
+      "Lámpara de mesa con diseño minimalista y luz cálida.",
+      "Perfecta para crear ambientes acogedores en el hogar."
+    ],
+    "imagenes": [
+      "/img/06-tienda/tienda6-b.png",
+      "/img/06-tienda/tienda6-c.png",
+      "/img/06-tienda/tienda6-d.png"
+    ]
+  }
+
+]

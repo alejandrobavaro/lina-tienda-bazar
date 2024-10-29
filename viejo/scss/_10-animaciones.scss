@@ -1,0 +1,55 @@
+//------------------ANIMACIONES---------------------------//
+
+.textoMovimiento {
+  // animation: shake 0.5s ease;
+}
+
+.textoMovimiento:hover {
+  animation: shake 0.5s ease;
+}
+
+/*-------------EFECTO SHAKE EN EL MENU AL PASAR EL MOUSE-------------*/
+.menu-link:hover {
+  animation: shake 0.5s ease;
+  /* Aplica la animación shake al pasar el mouse */
+}
+
+/* Animación shake */
+@keyframes shake {
+  0% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-1px);
+  }
+  50% {
+    transform: translateX(1px);
+  }
+  75% {
+    transform: translateX(-1px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+
+
+//--------------------LOGO ANIMADO INDEX-------------//
+
+.logo-animado {
+  animation: animacionLogo 6s ease infinite alternate;
+  max-width: 95%; /* Ajusta el valor según el tamaño máximo deseado */
+}
+
+@keyframes animacionLogo {
+  0% {
+    transform: scale(1) rotate(0deg);
+  }
+  50% {
+    transform: scale(1.02) rotate(1deg);
+  }
+  100% {
+    transform: scale(1) rotate(0deg);
+  }
+}

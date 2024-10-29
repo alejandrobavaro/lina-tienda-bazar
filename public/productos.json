@@ -1,0 +1,275 @@
+[
+  {
+    "id": 1,
+    "nombre": "P-1-Juego de Platos - Cerámica Artesanal",
+    "precio": 45000,
+    "imagenes": [
+      "/img/06-tienda/tienda1-a.png",
+      "/img/06-tienda/tienda1-b.png",
+      "/img/06-tienda/tienda1-c.png",
+      "/img/06-tienda/tienda1-d.png"
+    ],
+    "categoria": "platos",
+    "descripcion": "Juego de platos de cerámica artesanal, ideal para cualquier ocasión."
+  },
+  {
+    "id": 2,
+    "nombre": "P-2-Adorno Decorativo - Madera Tallada",
+    "precio": 35000,
+    "imagenes": [
+      "/img/06-tienda/tienda2-a.png",
+      "/img/06-tienda/tienda2-b.png",
+      "/img/06-tienda/tienda2-c.png",
+      "/img/06-tienda/tienda2-d.png"
+    ],
+    "categoria": "adornos",
+    "descripcion": "Adorno decorativo de madera tallada, perfecto para embellecer tu hogar."
+  },
+  {
+    "id": 3,
+    "nombre": "P-3-Utensilios de Cocina - Set de 5 Piezas",
+    "precio": 28000,
+    "imagenes": [
+      "/img/06-tienda/tienda3-a.png",
+      "/img/06-tienda/tienda3-b.png",
+      "/img/06-tienda/tienda3-c.png",
+      "/img/06-tienda/tienda3-d.png"
+    ],
+    "categoria": "utensilios",
+    "descripcion": "Set de 5 utensilios de cocina, funcionales y de diseño moderno."
+  },
+  {
+    "id": 4,
+    "nombre": "P-4-Jarrón - Cerámica Colorida",
+    "precio": 30000,
+    "imagenes": [
+      "/img/06-tienda/tienda4-a.png",
+      "/img/06-tienda/tienda4-b.png",
+      "/img/06-tienda/tienda4-c.png",
+      "/img/06-tienda/tienda4-d.png"
+    ],
+    "categoria": "decoración",
+    "descripcion": "Jarrón de cerámica colorida, ideal para decorar cualquier rincón de tu hogar."
+  },
+  {
+    "id": 5,
+    "nombre": "P-5-Cuchillos de Cocina - Set Profesional",
+    "precio": 90000,
+    "imagenes": [
+      "/img/06-tienda/tienda5-a.png",
+      "/img/06-tienda/tienda5-b.png",
+      "/img/06-tienda/tienda5-c.png",
+      "/img/06-tienda/tienda5-d.png"
+    ],
+    "categoria": "cuchillos",
+    "descripcion": "Set de cuchillos de cocina profesional, perfectos para los amantes de la gastronomía."
+  },
+  {
+    "id": 6,
+    "nombre": "P-6-Mueble de Almacenamiento - Estilo Minimalista",
+    "precio": 200000,
+    "imagenes": [
+      "/img/06-tienda/tienda6-a.png",
+      "/img/06-tienda/tienda6-b.png",
+      "/img/06-tienda/tienda6-c.png",
+      "/img/06-tienda/tienda6-d.png"
+    ],
+    "categoria": "muebles",
+    "descripcion": "Mueble de almacenamiento de diseño minimalista, ideal para optimizar espacios."
+  },
+  {
+    "id": 7,
+    "nombre": "P-7-Copas de Vino - Juego de 4 Piezas",
+    "precio": 50000,
+    "imagenes": [
+      "/img/06-tienda/tienda7-a.png",
+      "/img/06-tienda/tienda7-b.png",
+      "/img/06-tienda/tienda7-c.png",
+      "/img/06-tienda/tienda7-d.png"
+    ],
+    "categoria": "copas",
+    "descripcion": "Juego de 4 copas de vino, elegantes y perfectas para cenas especiales."
+  },
+  {
+    "id": 8,
+    "nombre": "P-8-Candelabro - Metal Dourado",
+    "precio": 75000,
+    "imagenes": [
+      "/img/06-tienda/tienda8-a.png",
+      "/img/06-tienda/tienda8-b.png",
+      "/img/06-tienda/tienda8-c.png",
+      "/img/06-tienda/tienda8-d.png"
+    ],
+    "categoria": "decoración",
+    "descripcion": "Candelabro de metal dorado, ideal para añadir un toque de elegancia a tus eventos."
+  },
+  {
+    "id": 9,
+    "nombre": "P-9-Mesa de Comedor - Estilo Rústico",
+    "precio": 300000,
+    "imagenes": [
+      "/img/06-tienda/tienda9-a.png",
+      "/img/06-tienda/tienda9-b.png",
+      "/img/06-tienda/tienda9-c.png",
+      "/img/06-tienda/tienda9-d.png"
+    ],
+    "categoria": "muebles",
+    "descripcion": "Mesa de comedor de estilo rústico, perfecta para reuniones familiares."
+  },
+  {
+    "id": 10,
+    "nombre": "P-10-Panera - Madera Natural",
+    "precio": 20000,
+    "imagenes": [
+      "/img/06-tienda/tienda10-a.png",
+      "/img/06-tienda/tienda10-b.png",
+      "/img/06-tienda/tienda10-c.png",
+      "/img/06-tienda/tienda10-d.png"
+    ],
+    "categoria": "utensilios",
+    "descripcion": "Panera de madera natural, ideal para mantener el pan fresco y a la vista."
+  },
+  {
+    "id": 11,
+    "nombre": "P-11-Manteles - Algodón Estampado",
+    "precio": 40000,
+    "imagenes": [
+      "/img/06-tienda/tienda11-a.png",
+      "/img/06-tienda/tienda11-b.png",
+      "/img/06-tienda/tienda11-c.png",
+      "/img/06-tienda/tienda11-d.png"
+    ],
+    "categoria": "textiles",
+    "descripcion": "Manteles de algodón estampado, perfectos para dar un toque de color a tu mesa."
+  },
+  {
+    "id": 12,
+    "nombre": "P-12-Bandeja - Cerámica Decorativa",
+    "precio": 55000,
+    "imagenes": [
+      "/img/06-tienda/tienda12-a.png",
+      "/img/06-tienda/tienda12-b.png",
+      "/img/06-tienda/tienda12-c.png",
+      "/img/06-tienda/tienda12-d.png"
+    ],
+    "categoria": "decoración",
+    "descripcion": "Bandeja de cerámica decorativa, ideal para servir aperitivos con estilo."
+  },
+  {
+    "id": 13,
+    "nombre": "P-13-Cuchara de Madera - Set de 3",
+    "precio": 22000,
+    "imagenes": [
+      "/img/06-tienda/tienda13-a.png",
+      "/img/06-tienda/tienda13-b.png",
+      "/img/06-tienda/tienda13-c.png",
+      "/img/06-tienda/tienda13-d.png"
+    ],
+    "categoria": "utensilios",
+    "descripcion": "Set de 3 cucharas de madera, perfectas para cocinar y servir."
+  },
+  {
+    "id": 14,
+    "nombre": "P-14-Sillon - Estilo Moderno",
+    "precio": 350000,
+    "imagenes": [
+      "/img/06-tienda/tienda14-a.png",
+      "/img/06-tienda/tienda14-b.png",
+      "/img/06-tienda/tienda14-c.png",
+      "/img/06-tienda/tienda14-d.png"
+    ],
+    "categoria": "muebles",
+    "descripcion": "Sillón de estilo moderno, ideal para cualquier espacio de tu hogar."
+  },
+  {
+    "id": 15,
+    "nombre": "P-15-Cuaderno de Cocina - Recetario Personalizado",
+    "precio": 15000,
+    "imagenes": [
+      "/img/06-tienda/tienda15-a.png",
+      "/img/06-tienda/tienda15-b.png",
+      "/img/06-tienda/tienda15-c.png",
+      "/img/06-tienda/tienda15-d.png"
+    ],
+    "categoria": "textiles",
+    "descripcion": "Cuaderno de cocina personalizado para que anotes tus recetas favoritas."
+  },
+  {
+    "id": 16,
+    "nombre": "P-16-Cesta de Mimbre - Organizador",
+    "precio": 28000,
+    "imagenes": [
+      "/img/06-tienda/tienda16-a.png",
+      "/img/06-tienda/tienda16-b.png",
+      "/img/06-tienda/tienda16-c.png",
+      "/img/06-tienda/tienda16-d.png"
+    ],
+    "categoria": "decoración",
+    "descripcion": "Cesta de mimbre, ideal para organizar tus objetos y decorar tu hogar."
+  },
+  {
+    "id": 17,
+    "nombre": "P-17-Set de Vasos - Vidrio Templado",
+    "precio": 40000,
+    "imagenes": [
+      "/img/06-tienda/tienda17-a.png",
+      "/img/06-tienda/tienda17-b.png",
+      "/img/06-tienda/tienda17-c.png",
+      "/img/06-tienda/tienda17-d.png"
+    ],
+    "categoria": "vasos",
+    "descripcion": "Set de 4 vasos de vidrio templado, perfectos para cualquier bebida."
+  },
+  {
+    "id": 18,
+    "nombre": "P-18-Cojín Decorativo - Estampado Floral",
+    "precio": 25000,
+    "imagenes": [
+      "/img/06-tienda/tienda18-a.png",
+      "/img/06-tienda/tienda18-b.png",
+      "/img/06-tienda/tienda18-c.png",
+      "/img/06-tienda/tienda18-d.png"
+    ],
+    "categoria": "textiles",
+    "descripcion": "Cojín decorativo con estampado floral, ideal para añadir color a tu hogar."
+  },
+  {
+    "id": 19,
+    "nombre": "P-19-Espejo Decorativo - Redondo",
+    "precio": 70000,
+    "imagenes": [
+      "/img/06-tienda/tienda19-a.png",
+      "/img/06-tienda/tienda19-b.png",
+      "/img/06-tienda/tienda19-c.png",
+      "/img/06-tienda/tienda19-d.png"
+    ],
+    "categoria": "decoración",
+    "descripcion": "Espejo decorativo redondo, ideal para cualquier espacio en tu hogar."
+  },
+  {
+    "id": 20,
+    "nombre": "P-20-Lámpara de Mesa - Diseño Moderno",
+    "precio": 85000,
+    "imagenes": [
+      "/img/06-tienda/tienda20-a.png",
+      "/img/06-tienda/tienda20-b.png",
+      "/img/06-tienda/tienda20-c.png",
+      "/img/06-tienda/tienda20-d.png"
+    ],
+    "categoria": "iluminación",
+    "descripcion": "Lámpara de mesa de diseño moderno, ideal para iluminar tu espacio de trabajo."
+  },
+  {
+    "id": 21,
+    "nombre": "P-21-Cortina - Algodón Estampado",
+    "precio": 60000,
+    "imagenes": [
+      "/img/06-tienda/tienda21-a.png",
+      "/img/06-tienda/tienda21-b.png",
+      "/img/06-tienda/tienda21-c.png",
+      "/img/06-tienda/tienda21-d.png"
+    ],
+    "categoria": "textiles",
+    "descripcion": "Cortina de algodón estampado, ideal para dar privacidad y estilo a tus ventanas."
+  }
+]

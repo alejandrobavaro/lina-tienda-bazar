@@ -62,7 +62,7 @@ body.modal-open {
   position: absolute;
   top: 10px;
   right: 10px;
-  background-color: #0099ff46; /* Rosa claro para el botón de cierre */
+  background-color: #4c00ff46; 
   color: #ffffff;
   border: none;
   border-radius: 50%;
@@ -102,7 +102,7 @@ body.modal-open {
     background-color: transparent; /* Fondo transparente para los items de promoción */
     color: #ffffff; /* Texto rosa */
     padding: 10px;
-    border: dotted 2px rgba(53, 0, 247, 0.863);
+    border: dotted 2px rgba(189, 0, 247, 0.863);
     margin-bottom: 10px;
     border-radius: 50%; /* Bordes redondeados */
     /* Elimina cualquier sombra */
@@ -129,7 +129,7 @@ body.modal-open {
 }
 
 .tienda-btn-primary:hover {
-  background-color: #4a47ff; /* Rosa oscuro al pasar el ratón */
+  background-color: #a647ff; /* Rosa oscuro al pasar el ratón */
   transform: scale(1.05); /* Escala al pasar el ratón */
 }
 

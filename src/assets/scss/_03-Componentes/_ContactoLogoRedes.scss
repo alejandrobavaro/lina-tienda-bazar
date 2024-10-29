@@ -21,7 +21,7 @@
   height: 600px;
   padding: 20px;
   border-radius: 20px;
-  border: 5px solid #0026ff; // Borde cian
+  // border: 5px solid #a200ff; // Borde cian
 }
 
 // Contenedor principal del grid
@@ -33,7 +33,7 @@
   margin: 0 auto;
   max-width: 1050px;
   padding: 20px;
-  border-bottom: 2px solid #fbff007c;
+  // border-bottom: 2px solid #7700ff7c;
   border-radius: 30px;
   gap: 20px;
   
@@ -171,7 +171,7 @@
   transition: color 0.3s ease, transform 0.3s ease;
 
   &:hover {
-    color:  #fbff00; // Color verde al hover
+    color:  #eda3ff; // Color verde al hover
     transform: translateY(-2px);
     box-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
   }
@@ -211,6 +211,7 @@
 
   // Si hay otras imágenes en la sección de contacto, las ocultamos
   .contact-icons img.logo-img {
+
     display: none;
   }
 }

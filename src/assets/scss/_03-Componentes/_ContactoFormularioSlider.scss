@@ -8,7 +8,7 @@
   margin: 0 auto;
   max-width: 1050px;
   padding: 10px;
-  border-bottom: 2px solid #00f7ff7c;
+  // border-bottom: 2px solid #ffffff7c;
   border-radius: 30px;
 
   // Modo tablet y móvil
@@ -114,7 +114,7 @@
     text-align: right;
 
     .btn-submit {
-      background-color: #10247b;
+      background-color: #5d107b;
       color: #fff;
       border: none;
       padding: 0.75rem 1.5rem;
@@ -125,7 +125,7 @@
       transition: background-color 0.3s ease, transform 0.3s ease;
 
       &:hover {
-        background-color: #a57c1c;
+        background-color: #9253a5;
         transform: scale(1.05);
       }
     }
@@ -140,13 +140,13 @@
     font-weight: bold;
     text-align: center;
     margin-bottom: 1rem;
-    color: #ffbb00;
+    color: #ffffff;
     position: relative;
     z-index: 1;
 
     i {
       font-size: 1.5rem;
-      color: #ffb300;
+      color: #ffffff;
       margin: 0 0.5rem;
     }
   }

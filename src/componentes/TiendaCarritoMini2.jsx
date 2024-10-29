@@ -21,7 +21,7 @@ const TiendaCarritoMini2 = ({ cart, removeFromCart, clearCart, updateProductQuan
     swal({
       title: "Producto agregado",
       text: "El producto ha sido agregado a tu carrito de compras.",
-      icon: "../../img/02-logos/logo-personalizá-2.png",
+      icon: "/img/02-logos/logolinatiendabazar1.png",
       button: {
         text: "Continuar",
         className: "sweetalert-button",

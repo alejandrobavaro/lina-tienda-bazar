@@ -63,7 +63,7 @@ const TiendaCarritoCompra = ({ cart = [], removeFromCart, handlePagar, updatePro
                     className="tienda-producto-imagen"
                     onError={(e) => {
                       e.target.onerror = null;
-                      e.target.src = "/path/to/default/image.jpg"; 
+                      e.target.src = "/img/02-logos/logolinatiendabazar2.png"; 
                     }}
                   />
                   <div className="tienda-producto-info">

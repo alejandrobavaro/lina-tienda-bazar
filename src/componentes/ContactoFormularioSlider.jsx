@@ -109,7 +109,7 @@ const ContactoFormularioSlider = () => {
             <i className="bi bi-person-arms-up" />Contactanos{""}
             <i className="bi bi-person-arms-up" />
           </h2>
-         <img className="gifTamaño" src="../../img/05-gif/contactfree-contactless.gif" alt="" />
+         <img className="gifTamaño" src="../../img/05-gif/travel-fun.gif" alt="" />
         </div>
       </div>
     </div>

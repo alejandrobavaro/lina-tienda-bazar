@@ -42,7 +42,7 @@
   top: 20px;
   right: 40px; // Ajustado para mejor ubicación
   font-size: 50px; // Tamaño de fuente más grande
-  color: #003cff; // Color vibrante
+  color: #7700ff; // Color vibrante
   border-radius: 50%;
   cursor: pointer;
   transition: color 0.3s ease, transform 0.3s ease;
@@ -57,7 +57,7 @@
 .TiendaImgAgrandar-next-button {
   position: absolute;
   bottom: 20%;
-  color: #0400ff; 
+  color: #ae00ff; 
   box-shadow: 0 10px 30px rgb(0, 0, 0); // Sombra más intensa
   border: none;
   border-radius: 50%;
@@ -77,7 +77,7 @@
 
 .TiendaImgAgrandar-prev-button:hover,
 .TiendaImgAgrandar-next-button:hover {
-  color: #010d7c; 
+  color: #4b017c; 
 }
 
 // Animaciones

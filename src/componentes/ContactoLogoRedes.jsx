@@ -18,7 +18,7 @@ const ContactoLogoRedes = () => {
                 <img
                   alt="icono"
                   className="logo-img logo-secondary"
-                  src="/img/05-img-costados-larga/3.png"
+                  src="/img/02-logos/logolinatiendabazar2.png"
                 />
               </a>
             </div>
@@ -36,7 +36,7 @@ const ContactoLogoRedes = () => {
             </div>
             <div className="contact-item">
               <a
-                href="https://www.instagram.com/chulusservicios/?hl=es"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -45,7 +45,7 @@ const ContactoLogoRedes = () => {
             </div>
             <div className="contact-item">
               <a
-                href="https://www.youtube.com/channel/UCBhJkysp3SnHU1tR3qAA5pQ"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -68,7 +68,7 @@ const ContactoLogoRedes = () => {
               <img
                 alt="icono"
                 className="logo-img "
-                src="../../img/04-img-banners/banner2.png"
+                 src="/img/02-logos/logoheader2.png"
               />
             </a>
           </div>
